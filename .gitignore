@@ -1,0 +1,8 @@
+target/
+.agents/
+.codex/
+.classpath
+.project
+.settings/
+.idea/
+*.iml
